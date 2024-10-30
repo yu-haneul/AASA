@@ -1,11 +1,13 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "VS4DZM8SVC.co.kr.ksfc.Mobile",
-        "paths": [ "/*" ]
-      }
-    ]
-  }
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "VS4DZM8SVC.co.kr.ksfc.Mobile",
+                "paths": [
+                    "/*"
+                ]
+            }
+        ]
+    }
 }
